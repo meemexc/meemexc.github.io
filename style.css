@@ -232,7 +232,7 @@ small{
 }
 .footer h3{
     color: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .footer-col1,.footer-col2,.footer-col3,.footer-col4{
     min-width: 250px;
@@ -264,6 +264,9 @@ small{
 
 .footer li{
     display: block;
+	margin: 3px;
+	font-size: 15px;
+	font-weight: 1000;
 }
 .footer hr{
     border: none;
