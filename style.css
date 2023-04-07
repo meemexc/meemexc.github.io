@@ -377,6 +377,7 @@ select:focus{
 }
 .single-product .col-2 img{
     padding: 0;
+	padding-left: 7px;
 }
 .single-product .col-2{
     padding: 20px;
@@ -412,10 +413,10 @@ input:focus{
 }
 .small-img-row{
     display: flex;
-    justify-content: space-between;
+	justify-content: space-between;
 }
 .small-img-col{
-    flex-basis: 24%;
+    flex-basis: 100%;
     cursor: pointer;
 }
 
